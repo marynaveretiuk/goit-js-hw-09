@@ -22,10 +22,10 @@ ul {
 }
 
 .container {
-    width: 1128px;
-    height: 648px;
-    margin: 0 auto;
-}    
+  max-width: 1128px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
 
 .gallery {
     display: grid;
